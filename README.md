@@ -16,7 +16,7 @@ Haciendo doble click en el archivo .jar que hay en la carpeta ejecutable.
 1. Ir al directorio donde está el archivo `.jar`.
 2. Ejecutar:
    ```bash
-   java -jar archivo.jar```
+   java -jar archivo.jar
 ## Construido con
 
 ## Versionado
