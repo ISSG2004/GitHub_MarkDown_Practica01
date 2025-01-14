@@ -18,13 +18,15 @@ Haciendo doble click en el archivo .jar que hay en la carpeta ejecutable.
    ```bash
    java -jar archivo.jar
 ## Construido con
-
+* Java - Lenguaje de programación principal.
+* Swing - Biblioteca gráfica para la creación de la interfaz de usuario.
+* Eclipse IDE - Entorno de desarrollo integrado utilizado durante el proyecto.
 ## Versionado
-
+El versionado es llevado a cabo con Git.
 ## Autores
 Ismael Sánchez González
 ## Licencia
-
+GNU GENERAL PUBLIC LICENSE Version 3
 ## Recursos Adicionales
 
 - [Página de GitHub](https://github.com/ISSG2004)
